@@ -18,4 +18,5 @@
 <div> 
   <a href="https://www.instagram.com/alisson.abreux/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:alissonabreuh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alisson-abreuh/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
